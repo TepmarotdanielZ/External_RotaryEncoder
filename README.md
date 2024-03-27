@@ -31,4 +31,47 @@ By apply to Equation 1 we get f = 90/(83 + 1) (999 + 1) = 100 hz
 
 𝑇 = 1/100 = 0.01𝑠 = 10𝑚𝑠
 
+## 3. Configuration 
+
+    • RCC :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/92b3aeb8-675d-4ac4-9a4f-75ec085f6af3)
+
+    • SYS :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/b2dd6e52-dda2-4183-81c5-3f77418f20f2)
+
+    • Clock Configuration :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/010f6d4c-ae45-4b60-9147-c27b56542a04)
+
+    • GPIO :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/5ac4d5eb-88ee-4eda-809a-8af95d532198)
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/04ecf48b-0f18-4e09-87a7-12440a4919f2)
+
+    • NVIC :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/74fff033-4233-4ef4-9f37-685725d939fe)
+
+    • CODE :
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/042c0f3f-93cc-4844-bcc4-f7b212207487)
+
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/404e3d49-ac9b-42af-8b3f-d989f4cd7c55)
+
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/66cc73d6-6ccf-4e1a-8003-56f29333c718)
+
+
+![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/9ed7ffdc-0832-49f0-8d63-05eb538bc011)
+
+
+
+    
+    
+
+
 
