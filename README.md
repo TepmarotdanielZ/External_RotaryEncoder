@@ -10,13 +10,21 @@ This HN3806 incremental Two phases encoder is an two-phase, incremental rotary e
 
   This is the specification of HN3806.
   • Model: HN3806
+
   • Pulse Number:600 (Optional)
+
   • Power source: DC 5-25V
+
   • Shaft diameter: 6mm
+
   • Output diameter: 38mm
+
   • Output: AB 2phase output rectangle orthogonal pulse circuit, the output for the NPN open-collector output type
+
   • Maximum mechanical speed: 5000R/min
+
   • Response frequency: 30khz
+
   • Cable length: 2 meters
 
 ## 2. Read Encoder
