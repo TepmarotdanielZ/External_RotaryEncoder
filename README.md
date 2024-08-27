@@ -33,11 +33,18 @@ To get value from two encoder and publisher data every 10ms we use two timer and
 
 • General formula calculations timer for execute:
 
+$$
 By apply to Equation 1 we get f = 90/(83 + 1) (999 + 1) = 100 hz
+$$
 
+$$
 𝑇 = 1/𝑓
+$$
 
+$$
 𝑇 = 1/100 = 0.01𝑠 = 10𝑚𝑠
+$$
+
 
 ## 3. Configuration 
 
