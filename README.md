@@ -84,9 +84,13 @@ $$
 ![image](https://github.com/TepmarotdanielZ/External_RotaryEncoder/assets/139426571/9ed7ffdc-0832-49f0-8d63-05eb538bc011)
 
 
+## REAL TESTING
 
+![image](https://github.com/user-attachments/assets/5fd9036e-3bd5-46ea-9c41-366f1b5c7149)
     
     
+## VDO TESTING
 
 
+https://github.com/user-attachments/assets/a05379dc-66b2-4766-a125-40753fbb439a
 
